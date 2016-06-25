@@ -3,7 +3,7 @@
 
 This repo was created as part of the course project [Developing Data Products Class](https://www.coursera.org/course/devdataprod).
 
-The objective of the assignment was to use the skills learnt in the class to create shiny application, which takes some form of user input and does some server side calculation, and deploy it on Rstudio's shiny server. The server.R and ui.R files are the shiny application. The application has been deployed [here](http://jackpeacock.shinyapps.io/chelseaPredictor).(TBC)
+The objective of the assignment was to use the skills learnt in the class to create shiny application, which takes some form of user input and does some server side calculation, and deploy it on Rstudio's shiny server. The server.R and ui.R files are the shiny application. The application has been deployed [here](https://filomena.shinyapps.io/BodyMassIndex/).
 
 The second part of the assignment was to create a *Reproducible* Pitch Presentation for the app. This was to be a html5 slide deck using either Slidify or Rstudio Presenter. The presentation can be found [here](http://jackpeacock.github.io/ddpCourseProject/#1).(TBC)
 
