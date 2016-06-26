@@ -9,5 +9,5 @@ The second part of the assignment was to create a *Reproducible* Pitch Presentat
 
 ## Description
 
-The Shiny Application provides a very simple tool and GUI to calculate the Body Mass Index (BMI) according to an individual weight and  height paramenters.
+The *BMI Index* Shiny Application provides a very simple tool and GUI to calculate the Body Mass Index (BMI) according to an individual weight and  height paramenters.
 
